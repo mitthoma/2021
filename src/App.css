@@ -339,6 +339,11 @@ a {
       margin-bottom: 30% !important;
   }
 
+  .ui.basic.label {
+    margin-top: 2%;
+    margin-right: 2px;
+  }
+
   .newGridRow {
     margin-top: 25%;
     margin-bottom: 30%;
