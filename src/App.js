@@ -103,7 +103,7 @@ function App() {
                   <Container>
                     <h1 className="sectionHeader">CONTACT</h1>
                     <br />
-                    <a href="mailto:mitthoma@gmail.com"><h3>mitthoma@gmail.com</h3></a>
+                    <a href="mailto:mt@mt.codes"><h3>mt@mt.codes</h3></a>
                     <br />
                     <a href="https://www.linkedin.com/in/mitchellthecoder/"><Button className="workButton">LinkedIn</Button></a>
                     <a href="https://github.com/mitthoma"><Button className="workButton">Github</Button></a>
