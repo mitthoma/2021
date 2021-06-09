@@ -5,7 +5,7 @@ html, body{
 .App {
   margin-top: 10%;
   max-width: 100% !important;
-  font-family: 'HelveticaNeue';
+  font-family: 'HelveticaNeue', "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial';
 
 }
 
@@ -27,7 +27,7 @@ html, body{
   background: white !important;
   border: 1px solid #191919 !important;
   color: #191919 !important;
-  font-family: "HelveticaNeue-CondensedBold" !important;
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial' !important;
   margin-bottom: 5% !important;
   transition: 3s linear;
 }
@@ -41,7 +41,7 @@ html, body{
   background: white !important;
   border: 1px solid #191919 !important;
   color: #191919 !important;
-  font-family: "HelveticaNeue-CondensedBold" !important;
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial' !important;
   /* margin-bottom: 5% !important; */
   transition: 3s linear;
   margin-top: 2% !important;
@@ -55,7 +55,7 @@ html, body{
 
 .textLogo {
   /* font-family: 'Helvetica Neue' !important; */
-  font-family: "HelveticaNeue-CondensedBold" !important;
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial' !important;
 
   font-size: 24px;;
   font-weight: 800 !important;
@@ -69,7 +69,7 @@ html, body{
 
   padding: 0 !important;
 
-  font-family: "HelveticaNeue-CondensedBold";
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial';
   font-weight: 900 !important;
   color: white;
   letter-spacing: -1px;
@@ -94,19 +94,19 @@ html, body{
 .boxText {
   color: white;
   margin: 0;
-  font-family: "HelveticaNeue-CondensedBold";
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial';
 
 }
 
 .type_sentence {
   font-size: 1.7em;
-  font-family: 'Helvetica Neue';
+  font-family: 'Helvetica Neue', "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial';
 }
 
 .newGridRow {
   background: #191919;
   color: white;
-  font-family: "HelveticaNeue-CondensedBold";
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial';
   margin-bottom: 10%;
   height: 40vh;
 
@@ -116,7 +116,7 @@ html, body{
 
 .my_name {
   font-size: 5em !important;
-  font-family: 'HelveticaNeue' !important;
+  font-family: 'HelveticaNeue', 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial' !important;
 }
 
 .name_row {
@@ -129,7 +129,7 @@ background: purple;
 
 .nav_item {
   font-weight: 900 !important;
-  font-family: "HelveticaNeue-CondensedBold" !important;
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial' !important;
   font-size: 1.25em;
   color: #191919 !important;
   padding-left: 5px !important;
@@ -143,7 +143,7 @@ background: purple;
   background: white !important;
   color: #191919 !important;
   font-weight: 900 !important;
-  font-family: "HelveticaNeue-CondensedBold" !important;
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial' !important;
 
 
 }
@@ -217,7 +217,7 @@ background: purple;
   border: 3px solid #191919;
   font-weight: 900 !important;
   /* font-family: 'Bebas Neue' ; */
-  font-family: "HelveticaNeue-CondensedBold";
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial';
   background-color: #191919;
   color: white;
   /* letter-spacing: 0.001em; */
@@ -230,7 +230,7 @@ background: purple;
 .sectionHeader {
   font-size: 3em;
   font-weight: 900 !important;
-  font-family: "HelveticaNeue-CondensedBold";
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial';
   background-color: #191919;
   color: white;
   letter-spacing: -1px;
@@ -261,7 +261,7 @@ background: purple;
   padding-left: 2%;
   font-weight: 900 !important;
   /* font-family: 'Bebas Neue' ; */
-  font-family: "HelveticaNeue-CondensedBold";
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial';
   background-color: #191919;
   color: white;
   /* letter-spacing: 0.001em; */
@@ -329,7 +329,7 @@ a {
 .pushHeader {
   font-size: 8em !important;
   font-weight: 900 !important;
-  font-family: "HelveticaNeue-CondensedBold" !important;
+  font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial' !important;
   font-weight: 800;
 }
 
@@ -375,7 +375,7 @@ a {
 
     padding: 0 !important;
 
-    font-family: "HelveticaNeue-CondensedBold";
+    font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial';
     font-weight: 900 !important;
     color: white;
     letter-spacing: -1px;
@@ -398,7 +398,7 @@ a {
 
   .nav_item {
     font-weight: 900 !important;
-    font-family: "HelveticaNeue-CondensedBold" !important;
+    font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial' !important;
     font-weight: 800 !important;
     font-size: 1em;
     color: #191919 !important;
@@ -420,7 +420,7 @@ a {
     margin-left: 0 !important;
     margin-right: 0 !important;
     font-weight: 900 !important;
-    font-family: "HelveticaNeue-CondensedBold" !important;
+    font-family: "HelveticaNeue-CondensedBold", "HelveticaNeue", 'Bebas Neue', cursive, 'Open Sans', sans-serif, 'Arial' !important;
 
 
 
