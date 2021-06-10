@@ -13,6 +13,7 @@ import {Grid,
   import '../App.css';
   import WorkItem from './WorkItem';
   import resume from '../resume.pdf';
+  import resume2 from '../resumeJune.pdf';
 
 
 
@@ -33,7 +34,7 @@ export default function ExpSection() {
 
           <h1 className="sectionHeader">WORK</h1>
           <br />
-          <form method="get" action={resume}>
+          <form method="get" action={resume2}>
             <Button className="resumeButton raisedCard">View/Download Resume</Button>
           <a href="https://mitchellthecoder.medium.com/"><Button className="resumeButton raisedCard">See My Blog</Button></a>
           </form>
