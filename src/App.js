@@ -70,7 +70,7 @@ function App() {
                   <br />
                   I'm a coder and entrepreneur. I've worked with machine learning/AI, blockchain, and full-stack web development. My goal is to continue working at the intersection of these world-changing technologies and strengthen my skills. Paired with an obsession with music and a knack for design, I strive to create truly unique projects in the future.
                   <br />
-                  Also as a tech writer with 5 published articles and project write-ups for 'Becoming Human: Artificial Intelligence Magazine'
+                  Also have 5 published articles and project write-ups as a tech writer for 'Becoming Human: Artificial Intelligence Magazine'.
                   <br />
                   <br />
 
