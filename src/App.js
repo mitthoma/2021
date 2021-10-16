@@ -68,7 +68,7 @@ function App() {
 
                   Howdy.
                   <br />
-                  I'm a coder and entrepreneur. I've worked with machine learning/AI, blockchain, and full-stack web development. My goal is to continue working at the intersection of these world-changing technologies and strengthen my skills. Paired with an obsession with music and a knack for design, I strive to create truly unique projects in the future.
+                  I'm a coder and entrepreneur yea. I've worked with machine learning/AI, blockchain, and full-stack web development. My goal is to continue working at the intersection of these world-changing technologies and strengthen my skills. Paired with an obsession with music and a knack for design, I strive to create truly unique projects in the future.
                   <br />
                   <br />
                   <br />
