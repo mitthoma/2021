@@ -44,16 +44,16 @@ function App() {
                     Solidity & Blockchain
                   </h2>
                   <h2 className="boxText">
-                    REACT & JS
+                    REACT & NodeJS
                   </h2>
                   <h2 className="boxText">
                     Python & ML
                   </h2>
                   <h2 className="boxText">
-                    Java
+                    Java & Android Dev
                   </h2>
                   <h2 className="boxText">
-                    HTML & CSS
+                    HTML/CSS & Frontend
                   </h2>
                 </Typist>
 
