@@ -44,7 +44,19 @@ export default function ExpSection() {
 
           <Grid.Column computer={16} mobile={16} width={8}>
 
+              <WorkItem
 
+              header={'Chainlink External Adapter'}
+              date={'October 2021'}
+              published={'Published in Becoming Human: The Artificial Intelligence Magazine'}
+              description={
+                "Built an External Adapter API in Typescript that reads real-world (example) JSON data that represents account balances and IDs. It contains three endpoints, such as summing the balances, finding the account with the maximum balance, and finding the account with the minimum balance. The external adapter then can hook up as a bridge to an actual Chainlink Job. Once the job, an oracle contract, and a consumer contract are in place, the consumer smart contract can then access the External Adapter API to use on-chain."
+              }
+              tags = {['Solidity Smart Contracts', 'Typescript', 'PostgreSQL', 'Chainlink', 'NodeJS']}
+              className="workItemSpacing"
+              writeup = {<a href="https://becominghuman.ai/the-groundbreaking-bridge-between-real-world-data-and-smart-contracts-3856aef12dd"><Button style={{marginTop: '2%'}} className="workButton raisedCard">Write Up</Button></a>}
+              github = {<a href="https://github.com/mitthoma/chainlink_ea_proj"><Button style={{marginTop: '2%'}} className="workButton raisedCard">Github Repo</Button></a>}
+               />
               <WorkItem
 
               header={'Blockchain Kickstarter Clone'}
@@ -61,6 +73,7 @@ export default function ExpSection() {
               <WorkItem
                 header={'blac_box: Decentralized File Storage'}
                 date={'March 2021'}
+                published={'Published in Becoming Human: The Artificial Intelligence Magazine'}
                 description={
                   "Decentralized file storage system application that runs on the Ethereum blockchain. Built with a React front-end, a user can upload files to this dApp and they are stored on the Interplanetary File System (IPFS). Past stored items can be retrieved from the platform as well."
                 }
