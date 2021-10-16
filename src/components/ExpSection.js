@@ -14,7 +14,7 @@ import {Grid,
   import WorkItem from './WorkItem';
   import resume from '../resume.pdf';
   import resume2 from '../resumeJune.pdf';
-  import resume3 from '../SE_Resume_Oct.pdf';
+  import resume3 from '../SE_Resume_October.pdf';
 
 
 
