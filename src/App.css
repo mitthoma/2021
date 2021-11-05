@@ -347,7 +347,7 @@ a {
   .newGridRow {
     margin-top: 25%;
     margin-bottom: 30%;
-    height: 60vh;
+    height: 80vh;
   }
 
   .workButton {
@@ -458,7 +458,7 @@ a {
 }
 @media only screen and (min-width: 812px) and (max-width: 1000px) {
   .newGridRow {
-    height: 60vh;
+    height: 80vh;
   }
 
 }
