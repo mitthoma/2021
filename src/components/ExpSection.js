@@ -44,7 +44,20 @@ export default function ExpSection() {
           </Grid.Column>
 
           <Grid.Column computer={16} mobile={16} width={8}>
+              
+              <WorkItem
 
+                header={'Developer Meetup Platform and Community'}
+                date={'December 2021'}
+
+                description={
+                  "Full Stack Project involving building a web community where users can sign up as developers and schedule meetups based around various topics."
+                }
+                tags = {['Vue.js', 'Vuetify', 'Firebase', 'Javascript', 'NodeJS', 'MaterialCSS', 'HTML/CSS']}
+                className="workItemSpacing"
+
+                github = {<a href="https://github.com/mitthoma/dev-meetup"><Button style={{marginTop: '2%'}} className="workButton raisedCard">Github Repo</Button></a>}
+              />
               <WorkItem
 
               header={'Chainlink External Adapter'}
