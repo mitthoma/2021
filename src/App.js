@@ -29,43 +29,48 @@ function App() {
                   <h1 className="mobileHeader">MITCHELL</h1>
                   <h1 className="mobileHeader">THOMAS</h1>
                   <h3 className="mobileHeaderh3">Senior Full Stack Software Engineer.</h3>
-                  <h3 className="mobileHeaderh3">6 Years Professional Exp</h3>
 
                 </Grid.Column>
                 <Grid.Column  width={8}>
                 <Typist>
                   <h3 className="boxText"></h3>
                   <br />
-                  <h2 className="boxText">
+                  <h4 className="boxText">
                     Typescript
-                  </h2>
-                  <h2 className="boxText">
+                  </h4>
+                  <h4 className="boxText">
                     Vue/Nuxt
-                  </h2>
-                  <h2 className="boxText">
+                  </h4>
+                  <h4 className="boxText">
                     React/Next
-                  </h2>
-                  <h2 className="boxText">
+                  </h4>
+                  <h4 className="boxText">
                     Python & AI/ML
-                  </h2>
-                  <h2 className="boxText">
+                  </h4>
+                  <h4 className="boxText">
                     Android/Java
-                  </h2>
-                  <h2 className="boxText">
+                  </h4>
+                  <h4 className="boxText">
                     Javascript/HTML/CSS/SCSS
-                  </h2>
-                  <h2 className="boxText">
-                    MySQL/PostgreSQL/MongoDB
-                  </h2>
-                  <h2 className="boxText">
+                  </h4>
+                  <h4 className="boxText">
+                    MySQL/PostgreSQL
+                  </h4>
+                  <h4 className="boxText">
                     AWS/Azure
-                  </h2>
-                  <h2 className="boxText">
+                  </h4>
+                  <h4 className="boxText">
                     Solidity/JS
-                  </h2>
-                  <h2 className="boxText">
+                  </h4>
+                  <h4 className="boxText">
                     Redis
-                  </h2>
+                  </h4>
+                  <h4 className="boxText">
+                    TypeORM/Prisma
+                  </h4>
+                  <h4 className="boxText">
+                    MongoDB
+                  </h4>
                 </Typist>
 
                 </Grid.Column>
@@ -75,13 +80,9 @@ function App() {
               <Grid.Column width={16}>
                 {/* <Typist avgTypingDelay={18} stdTypingDelay={50}> */}
                   {/* <Typist.Delay ms={3000} /> */}
-                  <h1 className="type_sentence">
+                  <h3 className="type_sentence">
 
-                  Howdy.
-                  <br />
-                  <br />
-
-                  I'm a coder. I have years of experience helping 30+ individuals and businesses build web products and software that helps them achieve success with their goals. I work in the unique intersection of being a seasoned software engineer and a communicator who works to bridge the understanding gap of the rapidly moving tech space. So I would love to chat if you have any questions about the space or how you could move forward.
+                  I'm a coder. I have 6 years of experience helping 30+ individuals and businesses build web products and software that helps them achieve success with their goals. I work in the unique intersection of being a seasoned software engineer and a communicator who works to bridge the understanding gap of the rapidly moving tech space. So I would love to chat if you have any questions about the space or how you could move forward.
 <br></br>
 <br></br>
 
@@ -97,7 +98,7 @@ I am a 2019 graduate of Indiana University. I received a B.S. in Computer Scienc
                   Co-Founder of Blacsand, LLC
 
 
-                  </h1>
+                  </h3>
                 {/* </Typist> */}
 
               </Grid.Column>
