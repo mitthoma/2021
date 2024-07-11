@@ -13,11 +13,6 @@ import About from './components/About';
 import ContactForm from './components/ContactForm';
 import FadeInSection from './components/FadeInSection';
 
-
-
-
-
-
 function App() {
 
 
@@ -33,27 +28,43 @@ function App() {
                 <Grid.Column computer={8} mobile={16} >
                   <h1 className="mobileHeader">MITCHELL</h1>
                   <h1 className="mobileHeader">THOMAS</h1>
-                  <h3 className="mobileHeaderh3">coder and founder.</h3>
+                  <h3 className="mobileHeaderh3">Senior Full Stack Software Engineer.</h3>
+                  <h3 className="mobileHeaderh3">6 Years Professional Exp</h3>
+
                 </Grid.Column>
                 <Grid.Column  width={8}>
                 <Typist>
                   <h3 className="boxText"></h3>
                   <br />
-
                   <h2 className="boxText">
-                    Solidity & Blockchain
+                    Typescript
                   </h2>
                   <h2 className="boxText">
-                    REACT & NodeJS
+                    Vue/Nuxt
                   </h2>
                   <h2 className="boxText">
-                    Python & ML
+                    React/Next
                   </h2>
                   <h2 className="boxText">
-                    Java & Android Dev
+                    Python & AI/ML
                   </h2>
                   <h2 className="boxText">
-                    HTML/CSS/JS
+                    Android/Java
+                  </h2>
+                  <h2 className="boxText">
+                    Javascript/HTML/CSS/SCSS
+                  </h2>
+                  <h2 className="boxText">
+                    MySQL/PostgreSQL/MongoDB
+                  </h2>
+                  <h2 className="boxText">
+                    AWS/Azure
+                  </h2>
+                  <h2 className="boxText">
+                    Solidity/JS
+                  </h2>
+                  <h2 className="boxText">
+                    Redis
                   </h2>
                 </Typist>
 
@@ -62,28 +73,32 @@ function App() {
 
             <Grid.Row className="typeRow">
               <Grid.Column width={16}>
-                <Typist avgTypingDelay={18} stdTypingDelay={50}>
-                  <Typist.Delay ms={3000} />
+                {/* <Typist avgTypingDelay={18} stdTypingDelay={50}> */}
+                  {/* <Typist.Delay ms={3000} /> */}
                   <h1 className="type_sentence">
 
                   Howdy.
                   <br />
-                  I'm a coder and entrepreneur. I've worked with machine learning/AI, blockchain, and full-stack web development. My goal is to continue working at the intersection of these world-changing technologies and strengthen my skills. Paired with an obsession with music and a knack for design, I strive to create truly unique projects in the future.
+                  <br />
+
+                  I'm a coder. I have years of experience helping 30+ individuals and businesses build web products and software that helps them achieve success with their goals. I work in the unique intersection of being a seasoned software engineer and a communicator who works to bridge the understanding gap of the rapidly moving tech space. So I would love to chat if you have any questions about the space or how you could move forward.
+<br></br>
+<br></br>
+
+I've worked with machine learning/AI, blockchain, and full-stack web development. I have been in a professional full-stack role  for 5+ years with my own company, Blacsand, as well as OPEN Health, a leading company in the Biotech industry for close to 3 years. At OPEN Health we have worked on many applications all striving to improve control and customizability of the event management space for many major companies in the industry.
+<br></br>
+<br></br>
+I am a 2019 graduate of Indiana University. I received a B.S. in Computer Science with a specialization in Artificial Intelligence and a minor in Human Centered Computing.
                   <br />
                   <br />
                   
 
-                  B.S. Computer Science, Indiana University Bloomington
-                  <br />
-                  Specialization in Artificial Intelligence
-                  <br />
-                  Minor in Human Centered Computing
-                  <br />
-                  Co-Founder of BLACSAND
+                  
+                  Co-Founder of Blacsand, LLC
 
 
                   </h1>
-                </Typist>
+                {/* </Typist> */}
 
               </Grid.Column>
             </Grid.Row>
@@ -103,12 +118,11 @@ function App() {
                   <Container>
                     <h1 className="sectionHeader">CONTACT</h1>
                     <br />
-                    <a href="mailto:mt@mt.codes"><h3>mt@mt.codes</h3></a>
+                    <a href="mailto:mitthoma@gmail.com"><h3>mitthoma@gmail.com</h3></a>
                     <br />
                     <a href="https://www.linkedin.com/in/mitchellthecoder/"><Button className="workButton">LinkedIn</Button></a>
                     <a href="https://github.com/mitthoma"><Button className="workButton">Github</Button></a>
                     <a href="https://mitchellthecoder.medium.com/"><Button className="workButton">Medium Blog</Button></a>
-                    <a href="https://open.spotify.com/artist/486YhVO1yIHlhlVy1suBlM"><Button className="workButton">Spotify Artist Profile</Button></a>
 
 
 

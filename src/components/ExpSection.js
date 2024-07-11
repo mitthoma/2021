@@ -15,6 +15,7 @@ import {Grid,
   import resume from '../resume.pdf';
   import resume2 from '../resumeJune.pdf';
   import resume3 from '../SE_Resume_October.pdf';
+  import resume4 from '../mitchellthomas-resume.pdf'
 
 
 
@@ -35,10 +36,14 @@ export default function ExpSection() {
 
           <h1 className="sectionHeader">WORK</h1>
           <br />
-          <form method="get" action={resume3}>
-            <Button className="resumeButton raisedCard">View/Download Resume</Button>
-          <a href="https://mitchellthecoder.medium.com/"><Button className="resumeButton raisedCard">See My Blog</Button></a>
-          </form>
+          <div class="buttonContainer">
+            <form method="get" action={resume4}>
+                  <Button className="resumeButton raisedCard">View/Download Resume</Button>
+            </form>
+            <a href="https://mitchellthecoder.medium.com/"><Button className="resumeButton raisedCard">See My Blog</Button></a>
+          </div>
+
+
 
 
           </Grid.Column>

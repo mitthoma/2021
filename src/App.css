@@ -176,6 +176,11 @@ background: purple;
 
 }
 
+.buttonContainer {
+  display: flex;
+  gap: 10px; /* Adjust the gap between buttons as needed */
+}
+
 .raisedCard:hover{
   transition: all .3s ease !important;
   box-shadow: -1px 5px 9px 0px rgba(0,0,0,0.4);
